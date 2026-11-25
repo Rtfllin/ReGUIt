@@ -1,6 +1,6 @@
 # ReGUIt
 
-[中文说明](README.zh-CN.md)
+[中文说明](REAMDE.zh-CN.md)
 
 **ReGUIt** is a GUI multi-boot manager for UEFI/GPT systems.
 
